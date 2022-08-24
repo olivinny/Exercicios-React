@@ -1,4 +1,4 @@
-import Form from "./Exercicios/Components/Ex-Props/Form";
+import Form from "./Ex-Props/Form";
 
 const App = () => {
   return (

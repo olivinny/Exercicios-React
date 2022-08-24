@@ -1,6 +1,6 @@
-import Footer from "./Ex-Components1/Footer";
-import Form from "./Ex-Components1/Form/Form";
-import Header from "./Ex-Components1/Header";
+import Footer from "./Ex-Components/Footer";
+import Form from "./Ex-Components/Form/Form";
+import Header from "./Ex-Components/Header";
 
 const Teste = () => {
   const active = false;
